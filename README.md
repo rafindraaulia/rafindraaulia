@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Rafindra Aulia
+# Hi there 👋, I'm Rafindra Aulia Pasha
 
 ## 🚀 Introduction
-Halo! Saya Rafindra Aulia, seorang mahasiswa yang tertarik di bidang Web Development, UI/UX, dan teknologi digital.  
+Halo! Saya Rafi, seorang mahasiswa yang tertarik di bidang Web Development, UI/UX, dan teknologi digital.  
 Saya senang belajar hal baru dan terus mengembangkan skill di dunia IT.
 
 ---
